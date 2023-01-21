@@ -7,12 +7,23 @@ import {
 	getCurrentDate,
 	getCurrentTime,
 	getRandomInteractionNum,
-	getRandomLyric,
 } from "@/methods/fetchData";
 import GenerateBtn from "./generateBtn";
 
 function randomIndex(length: number) {
 	return Math.floor(Math.random() * length);
+}
+
+async function getRandomLyric(artist: string) {
+	try {
+		const data = await fetch(
+			`${process.env.API_URL}/${artist}/song/random/info`,
+			{ cache: "no-store" }
+		);
+		return data.json();
+	} catch (error) {
+		console.error(error);
+	}
 }
 
 async function TweetBox() {

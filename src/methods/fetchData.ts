@@ -1,17 +1,5 @@
 const axios = require("axios");
 
-export async function getRandomLyric(artist: string) {
-	try {
-		const data = await fetch(
-			`${process.env.API_URL}/${artist}/song/random/info`,
-			{ cache: "no-store" }
-		);
-		return data.json();
-	} catch (error) {
-		console.error(error);
-	}
-}
-
 export function getCurrentDate() {
 	const months = [
 		"Jan",
