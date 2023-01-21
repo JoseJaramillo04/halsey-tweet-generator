@@ -86,10 +86,36 @@ html,
 body {
 	max-width: 100vw;
 	overflow-x: hidden;
+	font-family: "Inter", "Arial";
 }
 
 body {
-	background-color: red;
+	background-image: url(/_next/static/media/background.f98de960.webp);
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+	body {
+		background-position: 120vw;
+	}
+
+	body::after {
+		content: "";
+		background: url(/_next/static/media/background.f98de960.webp);
+		opacity: 0.5;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		position: absolute;
+		z-index: -1;
+		height: 100vh;
+	}
 }
 
 a {
@@ -101,5 +127,9 @@ a {
 	html {
 		color-scheme: dark;
 	}
+}
+
+.bold {
+	font-weight: bold;
 }
 
