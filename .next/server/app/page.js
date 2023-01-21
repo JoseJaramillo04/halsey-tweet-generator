@@ -524,16 +524,6 @@ var SvgVerifiedIcon = function SvgVerifiedIcon(props) {
 /* harmony default export */ const VerifiedIcon = (SvgVerifiedIcon);
 ;// CONCATENATED MODULE: ./src/methods/fetchData.ts
 const axios = __webpack_require__(486);
-async function getRandomLyric(artist) {
-    try {
-        const data = await fetch(`${process.env.API_URL}/${artist}/song/random/info`, {
-            cache: "no-store"
-        });
-        return data.json();
-    } catch (error) {
-        console.error(error);
-    }
-}
 function getCurrentDate() {
     const months = [
         "Jan",
@@ -582,6 +572,16 @@ var generateBtn_default = /*#__PURE__*/__webpack_require__.n(generateBtn);
 
 function randomIndex(length) {
     return Math.floor(Math.random() * length);
+}
+async function getRandomLyric(artist) {
+    try {
+        const data = await fetch(`${process.env.API_URL}/${artist}/song/random/info`, {
+            cache: "no-store"
+        });
+        return data.json();
+    } catch (error) {
+        console.error(error);
+    }
 }
 async function TweetBox() {
     const songData = await getRandomLyric("Halsey");
