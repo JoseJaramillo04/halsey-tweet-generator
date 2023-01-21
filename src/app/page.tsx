@@ -1,6 +1,5 @@
 import { Inter } from "@next/font/google";
 import styles from "./page.module.css";
-import { getRandomLyric } from "@/methods/fetchData";
 import { songData } from "@/models/song";
 import TweetBox from "@/components/tweetBox";
 
