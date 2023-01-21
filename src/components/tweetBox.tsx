@@ -18,7 +18,7 @@ function randomIndex(length: number) {
 async function TweetBox() {
 	const songData = await getRandomLyric("Halsey");
 
-	const date = new Date(songData.releaseDate);
+	const date = new Date(songData?.releaseDate);
 
 	return (
 		<>
@@ -41,15 +41,15 @@ async function TweetBox() {
 						</div>
 					</div>
 					<p className={styles.tweet_txt}>
-						{songData.song.lyrics[randomIndex(songData.song.lyrics.length)]}
+						{songData?.song.lyrics[randomIndex(songData?.song.lyrics.length)]}
 					</p>
 					<div className={styles.metadata_row}>
 						<p className={styles.time}>
 							{getCurrentTime()}&nbsp;&nbsp;{getCurrentDate()}
 						</p>
 						<p className={styles.album_info}>
-							{songData.song.name + " | "}
-							{songData.albumName}, {date.getFullYear()}
+							{songData?.song.name + " | "}
+							{songData?.albumName}, {date.getFullYear()}
 						</p>
 					</div>
 
