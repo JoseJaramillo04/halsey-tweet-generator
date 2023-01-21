@@ -74,7 +74,7 @@
 .metadata_row {
 	margin-top: 22px;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: space-between;
 	align-items: baseline;
 }
@@ -135,6 +135,9 @@
 	.tweet_box {
 		margin-top: 20vh;
 		max-width: 600px;
+	}
+	.metadata_row {
+		flex-direction: row;
 	}
 }
 

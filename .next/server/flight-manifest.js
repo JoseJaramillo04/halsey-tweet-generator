@@ -1,1 +1,503 @@
-self.__RSC_MANIFEST={"__ssr_module_mapping__":{"30":{"":{"id":"9797","name":"","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"*":{"id":"9797","name":"*","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"default":{"id":"9797","name":"default","chunks":["931:app/page-ea6778826dd9de4f"],"async":false}},"2092":{"":{"id":"6862","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"6862","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"6862","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"3552":{"":{"id":"4672","name":"","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"*":{"id":"4672","name":"*","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"default":{"id":"4672","name":"default","chunks":["931:app/page-ea6778826dd9de4f"],"async":false}},"7043":{"":{"id":"2030","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"2030","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"2030","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"7954":{"":{"id":"9446","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"9446","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"9446","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"9875":{"":{"id":"3258","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"3258","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"3258","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/page":["static/css/72abdd190ffe60ba.css","static/css/6fd48aee24db9ccb.css","static/css/d9d5a9700d6b1dfd.css","static/css/9451a24695a5eb39.css"],"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/layout":["static/css/a3aa85791c3cb9d8.css"]},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/app-router.js":{"":{"id":"7954","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"7954","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"7954","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/app-router.js":{"":{"id":"7954","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"7954","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"7954","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/error-boundary.js":{"":{"id":"7043","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"7043","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"7043","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/error-boundary.js":{"":{"id":"7043","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"7043","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"7043","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/layout-router.js":{"":{"id":"9875","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"9875","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"9875","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/layout-router.js":{"":{"id":"9875","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"9875","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"9875","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/render-from-template-context.js":{"":{"id":"2092","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"2092","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"2092","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"":{"id":"2092","name":"","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"*":{"id":"2092","name":"*","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false},"default":{"id":"2092","name":"default","chunks":["272:webpack-1c54e9f934ca0bb8","17:17-8a471ffb7c3538b5","744:main-app-1d7801be8a9bff0f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/generateBtn.module.css":{"default":{"id":"372","name":"default","chunks":["static/css/9451a24695a5eb39.css"]}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/image.js":{"":{"id":"30","name":"","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"*":{"id":"30","name":"*","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"default":{"id":"30","name":"default","chunks":["931:app/page-ea6778826dd9de4f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/image.js":{"":{"id":"30","name":"","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"*":{"id":"30","name":"*","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"default":{"id":"30","name":"default","chunks":["931:app/page-ea6778826dd9de4f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/generateBtn.tsx":{"":{"id":"3552","name":"","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"*":{"id":"3552","name":"*","chunks":["931:app/page-ea6778826dd9de4f"],"async":false},"default":{"id":"3552","name":"default","chunks":["931:app/page-ea6778826dd9de4f"],"async":false}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/page.module.css":{"default":{"id":"2677","name":"default","chunks":["static/css/d9d5a9700d6b1dfd.css"]}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\"]}],\"variableName\":\"inter\"}":{"default":{"id":"4830","name":"default","chunks":["static/css/6fd48aee24db9ccb.css"]}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/tweetBox.module.css":{"default":{"id":"6850","name":"default","chunks":["static/css/72abdd190ffe60ba.css"]}},"/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/globals.css":{"default":{"id":"5513","name":"default","chunks":["static/css/a3aa85791c3cb9d8.css"]}}}
+self.__RSC_MANIFEST={
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/generateBtn.tsx": {
+      "": {
+        "id": "(sc_client)/./src/components/generateBtn.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./src/components/generateBtn.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/generateBtn.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/page": [
+      "static/css/_app-client_src_components_tweetBox_module_css.css",
+      "static/css/_app-client_src_app_page_module_css.css",
+      "static/css/_app-client_node_modules_next_font_google_target_css_path_src_app_page_tsx_import_Inter_argum-7fabe7.css",
+      "static/css/app/page.css"
+    ],
+    "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/layout": [
+      "static/css/_app-client_src_app_globals_css.css"
+    ]
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/generateBtn.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/generateBtn.tsx": {
+    "": {
+      "id": "(app-client)/./src/components/generateBtn.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./src/components/generateBtn.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./src/components/generateBtn.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\"]}],\"variableName\":\"inter\"}": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_node_modules_next_font_google_target_css_path_src_app_page_tsx_import_Inter_argum-7fabe7.css"
+      ]
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/page.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_app_page_module_css.css"
+      ]
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/components/tweetBox.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_components_tweetBox_module_css.css"
+      ]
+    }
+  },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/globals.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_app_globals_css.css"
+      ]
+    }
+  }
+}
