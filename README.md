@@ -3,6 +3,10 @@
 ## Web preview
 ![Screenshot 2023-01-20 at 9 39 02 PM (2)](https://user-images.githubusercontent.com/71108160/213841937-ada8e526-28db-4ef1-9dc5-92f713c2b6fa.png)
 
+## Mobile preview
+![WhatsApp Image 2023-01-20 at 10 06 57 PM](https://user-images.githubusercontent.com/71108160/213842908-13cb9bff-cd9c-4cce-8ef4-03529ab22486.jpeg)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
