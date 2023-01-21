@@ -1,3 +1,9 @@
+[![Button Example](https://img.shields.io/badge/Live_Link_to_Site-37a779?style=for-the-badge)](https://halsey-tweet.netlify.app)
+
+## Web preview
+![Screenshot 2023-01-20 at 9 39 02 PM (2)](https://user-images.githubusercontent.com/71108160/213841937-ada8e526-28db-4ef1-9dc5-92f713c2b6fa.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
