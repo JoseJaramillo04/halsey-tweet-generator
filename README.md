@@ -1,13 +1,12 @@
-
 [![Button Example](https://img.shields.io/badge/Live_Link_to_Site-37a779?style=for-the-badge)](https://halsey-tweet.netlify.app)
 
 ## Web preview
-![halsey-tweet-web](./readme-Images/halsey-tweet-web.webp)
+
+![halsey-tweet-web](halsey-tweet-web.webp)
 
 ## Mobile preview
-![halsey-tweet-mobile](./readme-Images/halsey-tweet-mobile.webp)
 
-
+![halsey-tweet-mobile](halsey-tweet-mobile.webp)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
