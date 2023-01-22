@@ -464,6 +464,15 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
+  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/globals.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_app_globals_css.css"
+      ]
+    }
+  },
   "/Users/ferb7o2/personalCode/halsey-tweet-generator/node_modules/@next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
@@ -488,15 +497,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "static/css/_app-client_src_components_tweetBox_module_css.css"
-      ]
-    }
-  },
-  "/Users/ferb7o2/personalCode/halsey-tweet-generator/src/app/globals.css": {
-    "default": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/_app-client_src_app_globals_css.css"
       ]
     }
   }
