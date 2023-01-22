@@ -2,10 +2,10 @@
 [![Button Example](https://img.shields.io/badge/Live_Link_to_Site-37a779?style=for-the-badge)](https://halsey-tweet.netlify.app)
 
 ## Web preview
-![Screenshot 2023-01-20 at 9 39 02 PM (2)](https://user-images.githubusercontent.com/71108160/213841937-ada8e526-28db-4ef1-9dc5-92f713c2b6fa.png)
+![halsey-tweet-web](./readme-Images/halsey-tweet-web.webp)
 
 ## Mobile preview
-![WhatsApp Image 2023-01-20 at 10 06 57 PM](https://user-images.githubusercontent.com/71108160/213842908-13cb9bff-cd9c-4cce-8ef4-03529ab22486.jpeg)
+![halsey-tweet-mobile](./readme-Images/halsey-tweet-mobile.webp)
 
 
 
