@@ -2,11 +2,11 @@
 
 ## Web preview
 
-![halsey-tweet-web](halsey-tweet-web.webp)
+![halsey-tweet-web](https://github.com/JoseJaramillo04/halsey-tweet-generator/blob/main/readme-Images/halsey-tweet-web.webp)
 
 ## Mobile preview
 
-![halsey-tweet-mobile](halsey-tweet-mobile.webp)
+<img src="https://github.com/JoseJaramillo04/halsey-tweet-generator/blob/main/readme-Images/halsey-tweet-mobile.webp" width="300" height="auto">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
